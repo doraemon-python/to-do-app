@@ -1,0 +1,6 @@
+node_modules
+.agents
+.playwright-cli
+dist
+storybook-static
+package-lock.json

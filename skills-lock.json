@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "skills": {
+    "ui-ux-driven-development": {
+      "source": "doraemon-python/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ui-ux-driven-development/SKILL.md",
+      "computedHash": "e7c59759d4f0a5a2f354114abafbdd6df5c0b8755c361ebbf1c1823eca8827c6"
+    }
+  }
+}
